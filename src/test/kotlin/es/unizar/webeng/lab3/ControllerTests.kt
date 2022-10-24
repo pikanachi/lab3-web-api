@@ -85,7 +85,6 @@ class ControllerTests {
                 json(MANAGER_RESPONSE_BODY("Mary", 2))
             }
         }
-
     }
 
     @Test
