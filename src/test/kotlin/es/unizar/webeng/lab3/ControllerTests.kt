@@ -86,7 +86,6 @@ class ControllerTests {
             }
         }
 
-        // VERIFY
     }
 
     @Test
